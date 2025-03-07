@@ -43,7 +43,8 @@ The table contains 19 Data Columns, They are:
         select * from bengaluru_bookings_data where Booking_Status = "Success";
 
         select * from Successful_Booking;
-  Snap of all successful booking status for example,
+
+Snap of all successful booking status for example,
 
 ![Snap_1](https://github.com/user-attachments/assets/6c821001-5279-4247-a0b4-c47a6af6f0d3)
 
@@ -54,6 +55,7 @@ The table contains 19 Data Columns, They are:
         group by Vehicle_Type;
 
         select * from avg_by_vehicle;
+
 Snap of the average ride distance for each vehicle type,
 
 ![Snap_2](https://github.com/user-attachments/assets/70c20f5f-3770-4491-b0ae-acd6551a6981)     
@@ -227,16 +229,16 @@ Following inferences can be drawn from the dashboard;
 while calculating average rating, null values have been ignored as they were not relevant for some customers. 
   
 These ratings will change if different visual filters will be applied.  
-  
-  ### [4] Payment Method for Booking Value
+### [4] Payment Method for Booking Value
   
       a) Booking Value By Cash - 7.54M
       b) Booking Value By UPI - 5.58M
       c) Booking Value By Credit Card - 49.57K
       d) Booking Value By Debit Card - 14.13K
+
 Booking Value will change if different visual filters will be applied.
 
- ### [5] Total Distance Travelled by each Vehicle in KM
+### [5] Total Distance Travelled by each Vehicle in KM
  
         1) Prime Sedan - 91K
         2) Prime SUV - 90K
@@ -246,8 +248,7 @@ Booking Value will change if different visual filters will be applied.
         6) Bike - 93K
         7) E-Bike - 93K
 
- 
- ### [6] Customer Behavior
+### [6] Customer Behavior
 - Majority of customers prefer Ola Prime Sedan by analyzing Success Booking Value.
 - High repeat customer rate, indicating customer loyalty.
          
