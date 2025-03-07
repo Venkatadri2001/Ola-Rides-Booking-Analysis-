@@ -10,7 +10,7 @@ This analysis will support data-driven decision-making to enhance operational ef
 
 
 ### Steps followed
-### Performing "SQL Problems" 
+### Performing Analysis with "My SQL" 
 - Step 1 : Load data into My SQL Workbench, dataset is a csv file and the table name is bengaluru_bookings_data. The Interface like this:
 The table contains 19 Data Columns, They are:
            
