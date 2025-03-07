@@ -259,7 +259,7 @@ Booking Value will change if different visual filters will be applied.
         7) E-Bike - 93K
 
 ### [6] Customer Behavior
-- Majority of customers prefer Ola Prime Sedan by analyzing Success Booking Value.
+- Majority of customers prefer Ola Prime Sedan (analyzing Success Bookings Count).
 - High repeat customer rate, indicating customer loyalty.
          
 ### Conclusion
