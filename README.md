@@ -154,6 +154,7 @@ Snap of the incomplete rides only with the "Othet Issue", for example
 - 8.Ride Distance Distribution Per Day
 - 9.Driver Ratings Distribution
 - 10.Customer vs. Driver Ratings
+  
 ![Publish_Message](https://github.com/user-attachments/assets/cd2faac2-da79-4171-9a57-f3ef28204334)
 
 # Snapshot of Dashboard (Power BI Desktop)
