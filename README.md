@@ -43,7 +43,7 @@ The table contains 19 Data Columns, They are:
         select * from bengaluru_bookings_data where Booking_Status = "Success";
 
         select * from Successful_Booking;
-Snap of all successful booking status for example,
+   Snap of all successful booking status for example,
 
 ![Snap_1](https://github.com/user-attachments/assets/6c821001-5279-4247-a0b4-c47a6af6f0d3)
 
