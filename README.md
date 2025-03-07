@@ -140,7 +140,6 @@ as we have incomplete rides view i am applied one filter to it
 Snap of the incomplete rides only with the "Othet Issue", for example
 
 ![Snap_11](https://github.com/user-attachments/assets/32865d67-13dc-42e5-8936-c01e69ed6731)
-### 
 ### Performing "Power BI Operations" 
 - Step 1 : Load data into Power BI Desktop, dataset is a csv file.
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options. And I performed these Operations mentioned below; 
