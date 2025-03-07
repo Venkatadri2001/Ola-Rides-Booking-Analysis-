@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-This dashboard helps the Ola aims to optimize its ride-sharing services by analyzing key metrics related to ride volume, vehicle types, revenue generation, cancellation reasons, and ratings. The project focuses on identifying trends in ride volume over time, understanding booking status distributions, evaluating the performance of different vehicle types, and analyzing revenue by payment methods.
+This Analysis and dashboard helps the Ola aims to optimize its ride-sharing services by analyzing key metrics related to ride volume, vehicle types, revenue generation, cancellation reasons, and ratings. The project focuses on identifying trends in ride volume over time, understanding booking status distributions, evaluating the performance of different vehicle types, and analyzing revenue by payment methods.
 
 Additionally, it delves into cancellation reasons from both customers and drivers and assesses driver and customer ratings to improve service quality and customer satisfaction.
 
