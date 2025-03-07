@@ -43,7 +43,7 @@ The table contains 19 Data Columns, They are:
         select * from bengaluru_bookings_data where Booking_Status = "Success";
 
         select * from Successful_Booking;
-   Snap of all successful booking status for example,
+  Snap of all successful booking status for example,
 
 ![Snap_1](https://github.com/user-attachments/assets/6c821001-5279-4247-a0b4-c47a6af6f0d3)
 
@@ -213,6 +213,7 @@ Following inferences can be drawn from the dashboard;
     e) Auto - 4.00/5
     f) Bike - 3.98/5
     g) E-Bike - 3.99/5
+
 ### [3] Average Ratings by Drivers
 
     a) Prime Sedan - 4.00/5
@@ -222,9 +223,10 @@ Following inferences can be drawn from the dashboard;
     e) Auto - 3.99/5
     f) Bike - 3.98/5
     g) E-Bike - 4.02/5 
-  while calculating average rating, null values have been ignored as they were not relevant for some customers. 
+
+while calculating average rating, null values have been ignored as they were not relevant for some customers. 
   
-  These ratings will change if different visual filters will be applied.  
+These ratings will change if different visual filters will be applied.  
   
   ### [4] Payment Method for Booking Value
   
